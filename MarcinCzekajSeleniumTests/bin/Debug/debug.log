@@ -1,0 +1,2 @@
+[0124/142445.836:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0124/142445.837:ERROR:exception_snapshot_win.cc(88)] thread ID 2280 not found in process

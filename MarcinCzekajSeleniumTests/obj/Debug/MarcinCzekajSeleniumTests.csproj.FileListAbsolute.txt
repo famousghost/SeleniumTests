@@ -1,0 +1,13 @@
+c:\users\marcin\documents\visual studio 2015\Projects\MarcinCzekajSeleniumTests\MarcinCzekajSeleniumTests\bin\Debug\MarcinCzekajSeleniumTests.exe.config
+c:\users\marcin\documents\visual studio 2015\Projects\MarcinCzekajSeleniumTests\MarcinCzekajSeleniumTests\bin\Debug\MarcinCzekajSeleniumTests.exe
+c:\users\marcin\documents\visual studio 2015\Projects\MarcinCzekajSeleniumTests\MarcinCzekajSeleniumTests\bin\Debug\MarcinCzekajSeleniumTests.pdb
+c:\users\marcin\documents\visual studio 2015\Projects\MarcinCzekajSeleniumTests\MarcinCzekajSeleniumTests\bin\Debug\WebDriver.dll
+c:\users\marcin\documents\visual studio 2015\Projects\MarcinCzekajSeleniumTests\MarcinCzekajSeleniumTests\bin\Debug\WebDriver.xml
+c:\users\marcin\documents\visual studio 2015\Projects\MarcinCzekajSeleniumTests\MarcinCzekajSeleniumTests\obj\Debug\MarcinCzekajSeleniumTests.csprojResolveAssemblyReference.cache
+c:\users\marcin\documents\visual studio 2015\Projects\MarcinCzekajSeleniumTests\MarcinCzekajSeleniumTests\obj\Debug\MarcinCzekajSeleniumTests.exe
+c:\users\marcin\documents\visual studio 2015\Projects\MarcinCzekajSeleniumTests\MarcinCzekajSeleniumTests\obj\Debug\MarcinCzekajSeleniumTests.pdb
+c:\Users\Marcin\Documents\Visual Studio 2015\Projects\MarcinCzekajSeleniumTests\MarcinCzekajSeleniumTests\bin\Debug\nunit.framework.dll
+c:\Users\Marcin\Documents\Visual Studio 2015\Projects\MarcinCzekajSeleniumTests\MarcinCzekajSeleniumTests\bin\Debug\nunit.framework.pdb
+c:\Users\Marcin\Documents\Visual Studio 2015\Projects\MarcinCzekajSeleniumTests\MarcinCzekajSeleniumTests\bin\Debug\nunit.framework.xml
+c:\Users\Marcin\Documents\Visual Studio 2015\Projects\MarcinCzekajSeleniumTests\MarcinCzekajSeleniumTests\bin\Debug\WebDriver.Support.dll
+c:\Users\Marcin\Documents\Visual Studio 2015\Projects\MarcinCzekajSeleniumTests\MarcinCzekajSeleniumTests\bin\Debug\WebDriver.Support.xml
